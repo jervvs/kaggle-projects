@@ -15,11 +15,19 @@ Beginner Kaggle Projects:
 
 Skills:
 a) Exploratory Data Analysis
+
 b) Data Visualisation
+
 c) Imbalanced Dataset (SMOTE)
+
 d) Tree Algorithms
+
 e) Neural Networks
+
 2) Bengali Character Classification (Top 1% - 15/2059)
+
 Skills: 
-  a) PyTorch - FastAI
-  b) Computer Vision: Image Classification
+
+a) PyTorch - FastAI
+
+b) Computer Vision: Image Classification
