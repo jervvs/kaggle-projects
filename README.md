@@ -12,12 +12,13 @@ Beginner Kaggle Projects:
 
 **My Kaggle Adventures**
 1) Credit Card Fraud
+
 Skills:
-  a) Exploratory Data Analysis
-  b) Data Visualisation
-  c) Imbalanced Dataset (SMOTE)
-  d) Tree Algorithms
-  e) Neural Networks
+a) Exploratory Data Analysis
+b) Data Visualisation
+c) Imbalanced Dataset (SMOTE)
+d) Tree Algorithms
+e) Neural Networks
 2) Bengali Character Classification (Top 1% - 15/2059)
 Skills: 
   a) PyTorch - FastAI
